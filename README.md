@@ -1,10 +1,12 @@
 # Tic Tac Toe
 
-A game of Tic Tac Toe developed with SDL2. This game allows players to input their names and to play against other players locally or against a Bot. The game is built to be resolution independent. 
+Using SDL 2
 
+# Description
 
-# Upcoming Changes
-Addition of SDL_Image and SDL_Mixer to allow for music and images to be used in the program. 
+This SDL program utilizes 2-D rendering and font display to create a game of Tic Tac Toe. The game allows for resolution changing from 
+the first menu. The game can be played between two players and a player and a computer. The game also allows for user input by typing 
+their names into the program to be used in the display. 
 
 
 # Dependencies
@@ -12,6 +14,3 @@ Addition of SDL_Image and SDL_Mixer to allow for music and images to be used in 
 If you wish to compile the source code yourself you will need the SDL 2.0 and SDL TTF libraries.
 
 
-# Other
-
-In the Other folder there is an executable file along with the required files need for the program to run. 
